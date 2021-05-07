@@ -17,6 +17,10 @@ EG 2021. [[Project Website](http://www.iliyan.com/publications/CorrelationAwareM
 
 ### SIGGRAPH
 
+**Radiative Backpropagation: An Adjoint Method for Lightning-Fast Differentiable Rendering** <br>
+*[Merlin Nimier-David](https://rgl.epfl.ch/people/mnimierdavid), [Sébastien Speierer](https://rgl.epfl.ch/people/speierers), Benoît Ruiz, [Wenzel Jakob](https://rgl.epfl.ch/people/wjakob)*<br>
+SIGGRAPH 2020. [[Project Website](https://rgl.epfl.ch/publications/NimierDavid2020Radiative)] [[Paper](https://rgl.s3.eu-central-1.amazonaws.com/media/papers/NimierDavid2020Radiative.pdf)] [[Official Code](https://rgl.s3.eu-central-1.amazonaws.com/media/papers/NimierDavid2020Radiative_1.gz)] [[Unofficial Simple Implementation](https://github.com/ThalesII/differentiable-renderer)]
+
 **Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints** <br>
 *[Tizian Zeltner](https://tizianzeltner.com/), [Iliyan Georgiev](http://www.iliyan.com/), [Wenzel Jakob](http://rgl.epfl.ch/people/wjakob)* <br>
 SIGGRAPH 2020. [[Project Website](http://rgl.epfl.ch/publications/Zeltner2020Specular)] [[Paper](http://rgl.s3.eu-central-1.amazonaws.com/media/papers/Zeltner2020Specular.pdf)] [[Official Code](https://github.com/tizian/specular-manifold-sampling)]
