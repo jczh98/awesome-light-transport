@@ -9,6 +9,10 @@ A collection of resources on light transport, mainly focus on codes (official or
 *[Shlomi Steinberg](https://ssteinberg.xyz/), [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)* <br>
 SIGGRAPH 2021. [[Project Website](https://ssteinberg.xyz/2021/04/26/generic_physical_light_transport_framework/)] [[Paper](https://ssteinberg.xyz/202104_generic_physical_light_transport_framework_paper.pdf)] [[Official Code](https://ssteinberg.xyz/202104_generic_physical_light_transport_framework_mitsuba_src_code.7z)]
 
+### EG
+**Correlation-aware multiple importance sampling for bidirectional rendering algorithms** <br>
+*[Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html), [Iliyan Georgiev](http://www.iliyan.com/), [Philipp Slusallek](https://graphics.cg.uni-saarland.de/slusallek/)* <br>
+EG 2021. [[Project Website](http://www.iliyan.com/publications/CorrelationAwareMIS)] [[Paper](http://www.iliyan.com/publications/CorrelationAwareMIS/CorrelationAwareMIS_EG2021.pdf)] [[Official Code](https://github.com/pgrit/MisForCorrelatedBidir)]
 ## 2020
 
 ### SIGGRAPH
@@ -58,3 +62,11 @@ SIGGRAPH Asia 2020. [[Project Website](https://imaging.cs.cmu.edu/rrte/)] [[Pape
 **Stratified Markov Chain Monte Carlo Light Transport** <br>
 *[Adrien Gruson](https://beltegeuse.github.io/research/), Rex West, [Toshiya Hachisuka](https://cs.uwaterloo.ca/~thachisu/)* <br>
 EG 2020. [[Paper](https://cs.uwaterloo.ca/~thachisu/smcmc.pdf)] [[Official Code in Mitsuba](https://github.com/beltegeuse/smcmc)] [[Official Code in Rust](https://github.com/beltegeuse/rustlight/blob/master/src/integrators/mcmc/smcmc.rs)] [[Unoffcial Code](https://github.com/shiinamiyuki/AkariRender/blob/master/src/akari/render_smcmc.cpp)]
+
+## 2019
+
+### SIGGRAPH Asia
+
+**Variance-Aware Multiple Importance Sampling** <br>
+*[Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html), [Iliyan Georgiev](http://iliyan.com/), [Philipp Slusallek](https://graphics.cg.uni-saarland.de/people/slusallek.html), [Jaroslav Křivánek](http://cgg.mff.cuni.cz/~jaroslav/)* <br>
+SIGGRAPH Asia 2019. [[Project Website](https://cgg.mff.cuni.cz/~jaroslav/papers/2019-variance-aware-mis/index.html)] [[Paper](https://cgg.mff.cuni.cz/~jaroslav/papers/2019-variance-aware-mis/2019-grittmann-variance-aware-mis-paper.pdf)] [[Official Code](https://github.com/pgrit/var-aware-mis-pbrt)]
