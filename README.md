@@ -10,6 +10,7 @@ A collection of resources on light transport, mainly focus on codes (official or
 SIGGRAPH 2021. [[Project Website](https://ssteinberg.xyz/2021/04/26/generic_physical_light_transport_framework/)] [[Paper](https://ssteinberg.xyz/202104_generic_physical_light_transport_framework_paper.pdf)] [[Official Code](https://ssteinberg.xyz/202104_generic_physical_light_transport_framework_mitsuba_src_code.7z)]
 
 ### EG
+
 **Correlation-aware multiple importance sampling for bidirectional rendering algorithms** <br>
 *[Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html), [Iliyan Georgiev](http://www.iliyan.com/), [Philipp Slusallek](https://graphics.cg.uni-saarland.de/slusallek/)* <br>
 EG 2021. [[Project Website](http://www.iliyan.com/publications/CorrelationAwareMIS)] [[Paper](http://www.iliyan.com/publications/CorrelationAwareMIS/CorrelationAwareMIS_EG2021.pdf)] [[Official Code](https://github.com/pgrit/MisForCorrelatedBidir)]
@@ -69,7 +70,17 @@ EG 2020. [[Paper](https://cs.uwaterloo.ca/~thachisu/smcmc.pdf)] [[Official Code 
 
 ## 2019
 
+### SIGGRAPH
+
+**A null-scattering path integral formulation of light transport** <br>
+*[Bailey Miller](https://www.bailey-miller.com/), [Iliyan Georgiev](http://iliyan.com/), [Wojciech Jarosz](https://www.cs.dartmouth.edu/~wjarosz/)* <br>
+SIGGRAPH 2019. [[Project Website](https://cs.dartmouth.edu/~wjarosz/publications/miller19null.html)] [[Paper](https://cs.dartmouth.edu/~wjarosz/publications/miller19null.pdf)] [[Code](https://github.com/baileymiller/nullpath)]
+
 ### SIGGRAPH Asia
+
+**Integral formulations of volumetric transmittance** <br>
+*[Iliyan Georgiev](http://iliyan.com/), [Zackary Misso](http://zackmisso.com/), [Toshiya Hachisuka](https://www.ci.i.u-tokyo.ac.jp/~hachisuka/), [Derek Nowrouzezahrai](http://www.cim.mcgill.ca/~derek/), [Jaroslav Křivánek](http://cgg.mff.cuni.cz/~jaroslav/), [Wojciech Jarosz](https://www.cs.dartmouth.edu/~wjarosz/)* <br>
+SIGGRAPH 2019. [[Project Website](https://cs.dartmouth.edu/~wjarosz/publications/georgiev19integral.html)] [[Paper](https://cs.dartmouth.edu/~wjarosz/publications/georgiev19integral.pdf)] [[Code](https://github.com/ZackMisso/TransmittanceEstimation)]
 
 **Variance-Aware Multiple Importance Sampling** <br>
 *[Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html), [Iliyan Georgiev](http://iliyan.com/), [Philipp Slusallek](https://graphics.cg.uni-saarland.de/people/slusallek.html), [Jaroslav Křivánek](http://cgg.mff.cuni.cz/~jaroslav/)* <br>
