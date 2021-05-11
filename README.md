@@ -85,3 +85,11 @@ SIGGRAPH 2019. [[Project Website](https://cs.dartmouth.edu/~wjarosz/publications
 **Variance-Aware Multiple Importance Sampling** <br>
 *[Pascal Grittmann](https://graphics.cg.uni-saarland.de/people/grittmann.html), [Iliyan Georgiev](http://iliyan.com/), [Philipp Slusallek](https://graphics.cg.uni-saarland.de/people/slusallek.html), [Jaroslav Křivánek](http://cgg.mff.cuni.cz/~jaroslav/)* <br>
 SIGGRAPH Asia 2019. [[Project Website](https://cgg.mff.cuni.cz/~jaroslav/papers/2019-variance-aware-mis/index.html)] [[Paper](https://cgg.mff.cuni.cz/~jaroslav/papers/2019-variance-aware-mis/2019-grittmann-variance-aware-mis-paper.pdf)] [[Official Code](https://github.com/pgrit/var-aware-mis-pbrt)]
+
+## 2018
+
+### SIGGRAPH Asia
+
+**A radiative transfer framework for non-exponential media** <br>
+*[Benedikt Bitterli](http://benedikt-bitterli.me/) [Srinath Ravichandran](https://www.cs.dartmouth.edu/~sriravic/) [Thomas Müller](https://tom94.net/) [Magnus Wrenninge](http://magnuswrenninge.com/) [Jan Novák](http://drz.disneyresearch.com/~jnovak/) [Steve Marschner](http://www.cs.cornell.edu/~srm/) [Wojciech Jarosz](https://www.cs.dartmouth.edu/~wjarosz/)*<br>
+SIGGRAPH Asia 2018. [[Project Website](https://cs.dartmouth.edu/~wjarosz/publications/bitterli18framework.html)] [[Paper](https://cs.dartmouth.edu/~wjarosz/publications/bitterli18framework.pdf)] [[Official Code](https://github.com/tunabrain/tungsten/commit/98b366d5ddd43eaa9ee476a12ae364bedda2f94e)]
