@@ -9,6 +9,18 @@ A collection of resources on light transport, mainly focus on codes (official or
 *[Shlomi Steinberg](https://ssteinberg.xyz/), [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)* <br>
 SIGGRAPH 2021. [[Project Website](https://ssteinberg.xyz/2021/04/26/generic_physical_light_transport_framework/)] [[Paper](https://ssteinberg.xyz/202104_generic_physical_light_transport_framework_paper.pdf)] [[Official Code](https://ssteinberg.xyz/202104_generic_physical_light_transport_framework_mitsuba_src_code.7z)]
 
+**BRDF Importance Sampling for Polygonal Lights** <br>
+*[Christoph Peters](https://momentsingraphics.de/)* <br>
+SIGGRAPH 2021. [[Project Website](https://momentsingraphics.de/Siggraph2021.html)] [[Paper](https://momentsingraphics.de/Media/Siggraph2021/peters2021-brdf_importance_sampling_for_polygonal_lights-paper.pdf)] [[Official Code](https://github.com/MomentsInGraphics/vulkan_renderer)]
+
+**A Non-Exponential Transmittance Model for Volumetric Scene Representations** <br>
+*Delio Vicini, Wenzel Jakob, Anton Kaplanyan* <br>
+SIGGRAPH 2021. [[Project Website](http://rgl.epfl.ch/publications/Vicini2021NonExponential)] [[Paper](http://rgl.s3.eu-central-1.amazonaws.com/media/papers/Vicini2021NonExponential.pdf)] [[Official Code](https://github.com/dvicini/non-exp-transmittance-torch)]
+
+**Primary-Space Adaptive Control Variates using Piecewise-Polynomial Approximations** <br>
+*Miguel Crespo, Adrian Jarabo, Adolfo Muñoz* <br>
+SIGGRAPH 2021. [[Project Website](https://mcrespo.me/publications/primary-space-cv/)] [[Paper](https://mcrespo.me/publications/primary-space-cv/data/crespo2021primary.pdf)] [[Official Code](https://github.com/mcrescas/viltrum-mitsuba)]
+
 ### EG
 
 **Correlation-aware multiple importance sampling for bidirectional rendering algorithms** <br>
